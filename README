@@ -1,0 +1,13 @@
+Copyright 2011 Sebastian Korotkiewicz <mod@itunix.eu>
+--------------------------------------------------------
+
+// example
+
+echo BBCode("
+[b]test[/b]  \n 
+[img]http://example.com/images.png[/img] \n 
+[color=23456] 12132132 [/color] \n
+[a]http://google.pl[/a] \n
+[a=http://example.com/]http://example.com/images.png[/a] \n
+:D :P :) \n
+");
